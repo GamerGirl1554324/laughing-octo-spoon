@@ -1,7 +1,7 @@
 [package]
-name = "ringer"
-version = "0.1.0"
-authors = ["maytrayzor666 <cyberjesus@protonmail.ch>"]
+name = "octo-spoon"
+version = "2.2.8
+authors = ["gamer girl or something"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
